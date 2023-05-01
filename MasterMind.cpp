@@ -131,7 +131,7 @@ int main()
         } while (!validate);
 
         cout << "So, you have " + strLen + " chances!" << endl;
-        cout << "You'r guess digits should be seperated by space." << endl;
+        cout << "Your guess digits should be seperated by space." << endl;
         
         // now we convert length string to int, because gengoal function only accepts int as input
         length = stoi(strLen);
