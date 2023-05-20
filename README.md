@@ -6,7 +6,7 @@ If the length is less than 10, then number of user chances is equal to length.
 Otherwise, user have 9 chances to guess the number.
 
 Main functionality of code is based on working with strings, so we included string library.
-Prototype of main game functions included at the top of the code for better code readability.
+Prototype of main game functions added at the top of the code for better code readability.
   
 WARNING: Code may not be compatible with old C++ compilers, such as GCC v5 or older.
 Also, you need to use C++11 or newer versions.
